@@ -1,4 +1,11 @@
 # Curso
+Proceso de la obtención de los genes de interés
+
+Primero abrí el documento pdf que estaba dentro del manual de redes genéticas.
+Posteriormente en las redes mostradas elegí dos que me llamaron la atención como estaban ubicadas.
+Ya con los nombres de cada una, entre a "Genemania.org", seleccione en la barra de busqueda "Arabidopsis thaliana" e introduje los nombres de las proteinas de mi interés y listo.
+Acomode la red en filas y la guarde como imagen .jpg en mi carpeta de Github llamada "Curso".
+
 Descripción de los genes de interés observados
 
 La proteina OLEO1 tiene interacciones físicas con otras proteinas que son familia de las Oleosinas como lo son:
